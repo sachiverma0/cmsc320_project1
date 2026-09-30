@@ -1,3 +1,3 @@
-# cmsc320_project1
+# Social Media Engagement Data Analysis
 
 this is the readme
